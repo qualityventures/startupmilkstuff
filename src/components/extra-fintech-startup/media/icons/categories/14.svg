@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>icons / categories / beauty copy 11</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M16,16.0004 L16,48.9994 L20,48.9994 L20,56.0004 L29,56.0004 L29,48.9994 L43,48.9994 L43,56.0004 L52,56.0004 L52,48.9994 L56,48.9994 L56,16.0004 L16,16.0004 Z M18,47.0004 L54,47.0004 L54,18.0004 L18,18.0004 L18,47.0004 Z M45,53.9994 L50,53.9994 L50,48.9994 L45,48.9994 L45,53.9994 Z M22,53.9994 L22,48.9994 L26.999,48.9994 L26.999,53.9994 L22,53.9994 Z M20,34 L20,20 L52,20 L52,34 L20,34 Z M22,32 L50,32 L50,22 L22,22 L22,32 Z M24.5,45 C22.019,45 20,42.981 20,40.5 C20,38.019 22.019,36 24.5,36 C26.981,36 29,38.019 29,40.5 C29,42.981 26.981,45 24.5,45 Z M24.5,38 C23.121,38 22,39.122 22,40.5 C22,41.879 23.121,43 24.5,43 C25.879,43 27,41.879 27,40.5 C27,39.122 25.879,38 24.5,38 Z M47.5,36 C49.981,36 52,38.019 52,40.5 C52,42.981 49.981,45 47.5,45 C45.019,45 43,42.981 43,40.5 C43,38.019 45.019,36 47.5,36 Z M47.5,43 C48.879,43 50,41.879 50,40.5 C50,39.122 48.879,38 47.5,38 C46.121,38 45,39.122 45,40.5 C45,41.879 46.121,43 47.5,43 Z" id="path-1"></path>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#111C3C" offset="0%"></stop>
+            <stop stop-color="#10032D" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="promo_set" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="web" transform="translate(-292.000000, -7964.000000)">
+            <g id="Group-19-Copy" transform="translate(60.000000, 7460.000000)">
+                <g id="Group-27" transform="translate(216.000000, 248.000000)">
+                    <g id="icons-/-categories-/-transport" transform="translate(0.000000, 240.000000)">
+                        <g id="Group-6">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <g id="Combined-Shape"></g>
+                            <g id="colors-/-gradients-/-dark_main" mask="url(#mask-2)" fill="url(#linearGradient-3)">
+                                <rect id="frame" x="0" y="0" width="72" height="72"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

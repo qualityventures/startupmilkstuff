@@ -1,0 +1,20 @@
+.files-manager {
+  &__small-button {
+    display: inline-block;
+    margin-right: 10px;
+    line-height: 20px;
+    height: 20px;
+    padding: 0px 10px;
+    background: rgba(#FFF, .9);
+    border-radius: 8px;
+    font-size: 12px;
+    cursor: pointer;
+  }
+
+  &__input {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    margin-left: -9999px;
+  }
+}

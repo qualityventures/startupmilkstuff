@@ -1,0 +1,401 @@
+$padding_x: 30px;
+$padding_y: 40px;
+
+.cart-popup {
+  padding: $padding_x $padding_y;
+  position: relative;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  align-items: center;
+  min-height: 100%;
+
+  @media (max-width: 474px) {
+    padding: ($padding_x / 2) ($padding_y / 2);
+  }
+
+  &__title {
+    width: 100%;
+    font-size: 24px;
+    line-height: 40px;
+    padding-bottom: 47px;
+    flex-grow: 0;
+    flex-shrink: 0;
+    color: #1E1D25;
+    letter-spacing: 0;
+    position: relative;
+
+    &--with-padding {
+      padding-left: 81px;
+    }
+  }
+
+  &__back {
+    border: 1px solid #ECEDF0;
+    border-radius: 100px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 62px;
+    height: 40px;
+    cursor: pointer;
+    background-image: url('./media/cart-back.svg');
+    background-size: 14px 10px;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+  }
+
+  &__close {
+    border: 1px solid #ECEDF0;
+    border-radius: 50%;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+    background-image: url('./media/cart-close.svg');
+    background-size: 12px 12px;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+  }
+
+  &__placeholder {
+    font-size: 12px;
+    color: #828286;
+    letter-spacing: 0.37px;
+    text-align: center;
+    line-height: 16px;
+    width: 100%;
+
+    &-wrapper {
+      width: 180px;
+      flex-grow: 999;
+      display: flex;
+      align-items: center;
+      padding-bottom: 40px;
+    }
+  }
+
+  &__separator {
+    width: calc(100% + (#{$padding_y} * 2));
+    height: 1px;
+    background: #ECEDF0;
+    padding: 0px;
+    margin: $padding_x (-1 * $padding_y);
+
+    @media (max-width: 474px) {
+      width: calc(100% + #{$padding_y});
+      margin: 20px -1 * ($padding_y / 2);
+    }
+  }
+
+  &__spring {
+    flex-grow: 9999;
+  }
+
+  &__checkout {
+    height: 40px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  &__price-free {
+    font-size: 18px;
+    line-height: 40px;
+    color: #1E1D25;
+    letter-spacing: 0;
+  }
+
+  &__price-total {
+    &-amount {
+      font-size: 18px;
+      color: #1E1D25;
+      letter-spacing: 0;
+      line-height: 20px;
+    }
+
+    &-text {
+      font-size: 13px;
+      color: #828286;
+      letter-spacing: 0;
+      line-height: 20px;
+    }
+  }
+
+  &__button {
+    background: #1E1D25;
+    border: 1px solid #F2F3F7;
+    box-shadow: 0 3px 5px -2px rgba(34,28,158,0.08);
+    border-radius: 100px;
+    font-size: 12px;
+    color: #FFFFFF;
+    letter-spacing: 0.37px;
+    line-height: 38px;
+    padding: 0px 20px 0px 40px;
+    cursor: pointer;
+    background-repeat: no-repeat;
+
+    &--proceed {
+      background-position: 20px 14px;
+      background-size: auto 8px;
+      background-image: url('./media/button-proceed.svg');
+    }
+
+    &--get {
+      background-position: 20px 14px;
+      background-size: auto 9px;
+      background-image: url('./media/button-get.svg');
+    }
+
+    &:hover {
+      box-shadow: 0 3px 5px -2px rgba(34,28,158,0);
+    }
+  }
+
+  &__products {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+
+  &__product {
+    height: 129px + 10px;
+    width: 100%;
+    margin-bottom: 10px;
+    padding-left: 172 + 20px;
+    position: relative;
+    border-bottom: 1px solid rgba(#202631, .05);
+
+    &:last-child {
+      margin-bottom: 0px;
+      padding-bottom: 0px;
+      border-bottom: 0px solid rgba(#202631, .05);
+    }
+
+    &-image {
+      position: absolute;
+      top: 0px;
+      left: 0px;
+      width: 172px;
+      height: 129px;
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: 50% 50%;
+      border: 1px solid #ECEDF0;
+    }
+
+    &-shadow {
+      position: absolute;
+      top: 0px;
+      left: 0px;
+      width: 172px;
+      height: 129px;
+      background: rgba(#000, .3);
+      opacity: 0;
+      transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+
+      @media (max-width: 474px) {
+        visibility: hidden;
+      }
+    }
+
+    &:hover &-shadow {
+      opacity: 1;
+    }
+
+    &-big-button {
+      position: absolute;
+      top: 41px;
+      left: 32px;
+      width: 109px;
+      height: 40px;
+      line-height: 38px;
+      border-radius: 100px;
+      background: #FFF;
+      cursor: pointer;
+      text-align: center;
+      font-size: 12px;
+      color: #1E1D25;
+      letter-spacing: 0.37px;
+      background-image: url('./media/button-trash.svg');
+      background-repeat: no-repeat;
+      background-size: 14px 14px;
+      background-position: 14px 12px;
+      border: 1px solid #F2F3F7;
+      box-shadow: 0 3px 5px -2px rgba(34,28,158,0.08);
+      padding-left: 16px;
+      opacity: 0;
+      transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+
+      @media (max-width: 474px) {
+        visibility: hidden;
+      }
+    }
+
+    &:hover &-big-button {
+      opacity: 1;
+    }
+
+    &-remove {
+      position: absolute;
+      top: 0px;
+      margin-top: -6px;
+      left: 172px - 18px;
+      background-image: url('./media/x.svg');
+      background-position: 50% 50%;
+      background-size: 24px auto;
+      width: 24px;
+      height: 24px;
+      cursor: pointer;
+      visibility: hidden;
+
+      @media (max-width: 474px) {
+        visibility: visible;
+      }
+    }
+
+    &-title {
+      font-size: 18px;
+      color: #1E1D25;
+      letter-spacing: 0.32px;
+      line-height: 24px;
+      margin-bottom: 10px;
+    }
+
+    &-price {
+      background: #1E1D25;
+      border-radius: 21px;
+      font-size: 11px;
+      color: #FFFFFF;
+      letter-spacing: 0.34px;
+      text-align: center;
+      line-height: 25px;
+      display: inline-block;
+      padding: 0px 10px;
+      margin-left: -4px;
+    }
+  }
+
+  &__recover {
+    font-size: 12px;
+    text-align: right;
+    cursor: pointer;
+  }
+
+  &__recovered {
+    font-size: 12px;
+    text-align: right;
+  }
+
+  &__error {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+
+  &__email {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+
+  &__card {
+    width: 100%;
+    margin-bottom: 40px;
+    background: #FFFFFF;
+    border: 1px solid #F2F3F7;
+    box-shadow: 0 3px 5px -2px rgba(34,28,158,0.08);
+    border-radius: 6px;
+    padding: 20px;
+
+    &-icons {
+      height: 24px;
+      line-height: 24px;
+      margin-bottom: 40px;
+      vertical-align: top;
+    }
+
+    &-icon {
+      width: 51px;
+      height: 24px;
+      line-height: 22px;
+      display: inline-block;
+      margin-right: 5px;
+      border: 1px solid #F2F3F7;
+      box-shadow: 0 1px 5px -2px rgba(34,28,158,0.08);
+      border-radius: 4px;
+      background-position: 50% 50%;
+      background-repeat: no-repeat;
+
+      &--mc {
+        background-image: url('./media/card-mc.svg');
+        background-size: auto 12px;
+      }
+
+      &--visa {
+        background-image: url('./media/card-visa.svg');
+        background-size: auto 10px;
+      }
+
+      &--amex {
+        background-image: url('./media/card-amex.svg');
+        background-size: auto 15px;
+      }
+    }
+
+    &-number {
+      margin-bottom: 33px;
+      position: relative;
+    }
+
+    &-lock {
+      width: 10px;
+      height: 12px;
+      position: absolute;
+      top: 10px;
+      right: 0px;
+      background-image: url('./media/icon-lock.svg');
+      background-position: 50% 50%;
+      background-size: 10px auto;
+      background-repeat: no-repeat;
+    }
+
+    &-extra {
+      height: 36px;
+      display: flex;
+      justify-content: space-between;
+      flex-direction: row;
+    }
+
+    &-exp {
+      width: 100px;
+    }
+
+    &-cvc {
+      width: 60px;
+    }
+  }
+
+  &__stripe_input {
+    box-sizing: border-box;
+    border: 0px solid #ECEDF0;
+    border-bottom: 1px solid #ECEDF0;
+    height: 36px;
+    line-height: 35px;
+    width: 100%;
+    outline: none;
+    resize: none;
+    font-size: 14px;
+    font-style: normal;
+    letter-spacing: normal;
+    font-stretch: normal;
+    font-variant: normal;
+    font-weight: normal;
+    border-radius: 2px;
+    padding: 9px 0px;
+    color: #828286;
+    background: #FFF;
+    transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+  }
+}

@@ -1,0 +1,50 @@
+.customer {
+  padding: 1em;
+  border-bottom: 1px solid #F3F3F3;
+  &:hover {
+    background-color: #F5F6F8;
+    cursor: pointer;
+  }
+  .user-label {
+    border-radius: 30px;
+    padding: 6px 20px;
+    margin-right: 8px;
+    color: #fff;
+    &.free {
+      background-color: #4A90E2;
+    }
+    &.paid {
+      background-color: #99D958;
+    }
+    &.sub {
+      background-color: #F14E72;
+    }
+  }
+}
+.filters {
+  >div {
+    cursor: pointer;
+    user-select: none;
+    border-radius: 30px;
+    padding: 6px 20px;
+    margin-right: 8px;
+    background: #F5F6F8;
+    color: #828286;
+    &.active {
+      background: #000000;
+      color: #fff;
+    }
+
+  }
+}
+.pagination {
+  text-align: center;
+  align-items: center;
+  >div {
+    cursor: pointer;
+    margin-right: 5px;
+    &.active {
+      font-weight: bold;
+    }
+  }
+}

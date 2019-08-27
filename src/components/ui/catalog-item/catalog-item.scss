@@ -1,0 +1,61 @@
+.catalog-item-thumb {
+  position: relative;
+}
+
+.catalog-item {
+  &__animation-loader {
+    width: 1px;
+    height: 1px;
+    position: absolute;
+    top: 0px;
+    left: -9999px;
+    opacity: 0.01;
+  }
+  .catalog-item__big-button {
+    a {
+      color: black;
+      > div {
+        margin-top: 20px;
+      }
+      img {
+        width: 55px
+      }
+    }
+  }
+
+  &__big-button {
+    cursor: pointer;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: #666;
+    background-color: rgba(#666, .1);
+    padding: 0px 5px;
+    font-size: 16px;
+    white-space: nowrap;
+    overflow-x: hidden;
+    text-overflow: ellipsis;
+
+    & div, & span, & a {
+      position: static !important;
+      opacity: 1 !important;
+      white-space: nowrap;
+      overflow-x: hidden;
+      text-overflow: ellipsis;
+      display: block;
+      background: transparent;
+    }
+  }
+
+  &__small-buttons {
+    position: absolute;
+    right: 5px;
+    top: 5px;
+  }
+}

@@ -1,0 +1,27 @@
+@import 'styles/variables.scss';
+@import 'styles/mixins.scss';
+
+.order-details {
+  &__title {
+    color: #1e1d25;
+    text-align: left;
+    font-size: 18px;
+    line-height: 30px;
+    font-weight: 400;
+  }
+
+  &__price {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    line-height: 30px;
+    font-size: 14px;
+    color: #333;
+  }
+
+  &__wrapper {
+    position: relative;
+    padding-bottom: 15px;
+    margin-bottom: 15px;
+  }
+}

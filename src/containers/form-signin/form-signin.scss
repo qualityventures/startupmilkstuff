@@ -1,0 +1,15 @@
+.signin {
+  &.__recover {
+    font-size: 12px;
+    text-align: right;
+    cursor: pointer;
+    color: #333;
+  }
+
+  &.__recovered {
+    font-size: 12px;
+    text-align: right;
+    color: #333;
+    margin-left: 20px;
+  }
+}

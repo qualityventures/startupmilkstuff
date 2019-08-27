@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="32px" viewBox="0 0 48 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>icons / flag / european_union copy 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="48" height="32" rx="8"></rect>
+    </defs>
+    <g id="promo_set" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="web" transform="translate(-820.000000, -7918.000000)">
+            <g id="icons-/-flag-/-antigua_and_barbuda" transform="translate(820.000000, 7918.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="mask" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <g id="Group-7" stroke-width="1" fill-rule="evenodd" mask="url(#mask-2)">
+                    <g transform="translate(0.000000, -1.000000)">
+                        <polygon id="Fill-1" fill="#0D0803" points="0 14 48 14 48 0 0 0"></polygon>
+                        <polygon id="Fill-2" fill="#FCC200" points="24 5 25.171 11.116 28.593 5.914 27.334 12.011 32.486 8.514 28.989 13.666 35.086 12.408 29.885 15.83 36 17 29.885 18.17 35.086 21.592 28.989 20.334 32.486 25.486 27.334 21.989 28.593 28.086 25.171 22.884 24 29 22.83 22.884 19.408 28.086 20.666 21.989 15.515 25.486 19.011 20.334 12.914 21.592 18.116 18.17 12 17 18.116 15.83 12.914 12.408 19.011 13.666 15.515 8.514 20.666 12.011 19.408 5.914 22.83 11.116"></polygon>
+                        <polygon id="Fill-3" fill="#FEFEFE" points="0 33 48 33 48 20 0 20"></polygon>
+                        <polygon id="Fill-4" fill="#1E70B7" points="0 20 48 20 48 14 0 14"></polygon>
+                        <polygon id="Fill-5" fill="#E20714" points="0 0.9996 0 32.9996 24 32.9996"></polygon>
+                        <polygon id="Fill-6" fill="#E20714" points="47.9997 0.9996 24.0007 32.9996 47.9997 32.9996"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

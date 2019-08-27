@@ -1,0 +1,77 @@
+@import 'styles/variables.scss';
+@import 'styles/mixins.scss';
+
+:export {
+  duration: $transition_default_duration;
+  zIndex: $z_index_modals;
+}
+
+.__modals-modal {
+  &-enter {
+    @include respond_to(mobile) {
+      transform: translateY(100%);
+    }
+
+    @include respond_to(desktop) {
+      transform: translateY(20px);
+      opacity: 0;
+    }
+  }
+
+  &-enter-active {
+    @include respond_to(mobile) {
+      transform: translateY(0%);
+      @include transition(transform);
+    }
+
+    @include respond_to(desktop) {
+      opacity: 1;
+      transform: translateY(0px);
+      @include transition(opacity, transform);
+    }
+  }
+
+  &-exit {
+    @include respond_to(mobile) {
+      transform: translateY(0%);
+    }
+
+    @include respond_to(desktop) {
+      opacity: 1;
+      transform: translateY(0px);
+    }
+  }
+
+  &-exit-active {
+    @include respond_to(mobile) {
+      transform: translateY(100%);
+      @include transition(transform);
+    }
+
+    @include respond_to(desktop) {
+      opacity: 0;
+      transform: translateY(20px);
+      @include transition(opacity, transform);
+    }
+  }
+}
+
+.__modals-shadow {
+  &-enter {
+    opacity: 0.01;
+  }
+
+  &-enter-active {
+    opacity: 1;
+    @include transition(opacity);
+  }
+
+  &-exit {
+    opacity: 1;
+  }
+
+  &-exit-active {
+    opacity: 0.01;
+    @include transition(opacity);
+  }
+}

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="32px" viewBox="0 0 48 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>icons / flag / canada copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="48" height="32" rx="8"></rect>
+    </defs>
+    <g id="promo_set" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="web" transform="translate(-1079.000000, -7778.000000)">
+            <g id="icons-/-flag-/-jamaica" transform="translate(1079.000000, 7778.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="mask" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <g id="Group-6" stroke-width="1" fill-rule="evenodd" mask="url(#mask-2)">
+                    <polygon id="Fill-1" fill="#008D36" points="0 32 48 32 48 0 0 0"></polygon>
+                    <polygon id="Fill-2" fill="#0D0803" points="0 29.1425 19.72 15.9995 0 2.8575"></polygon>
+                    <polygon id="Fill-3" fill="#0D0803" points="28.2816 15.9998 47.9996 29.1428 47.9996 2.8578"></polygon>
+                    <polygon id="Fill-4" fill="#FCC200" points="0 -0.0004 0 2.8576 43.727 31.9996 48 31.9996 48 29.1426 4.273 -0.0004"></polygon>
+                    <polygon id="Fill-5" fill="#FCC200" points="43.7274 -0.0004 0.0004 29.1426 0.0004 31.9996 4.2734 31.9996 47.9994 2.8576 47.9994 -0.0004"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

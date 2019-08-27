@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="32px" viewBox="0 0 48 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>icons / flag / poland copy 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="48" height="32" rx="8"></rect>
+    </defs>
+    <g id="promo_set" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="web" transform="translate(-1166.000000, -7918.000000)">
+            <g id="icons-/-flag-/-uruguay" transform="translate(1166.000000, 7918.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="mask" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <g id="Group-17" stroke-width="1" fill-rule="evenodd" mask="url(#mask-2)">
+                    <g transform="translate(0.000000, -1.000000)">
+                        <polygon id="Fill-1" fill="#FEFEFE" points="0 33 48 33 48 29.444 0 29.444"></polygon>
+                        <polygon id="Fill-2" fill="#FEFEFE" points="0 4.555 48 4.555 48 0.999 0 0.999"></polygon>
+                        <polygon id="Fill-3" fill="#36A9E0" points="0 8.111 48 8.111 48 4.555 0 4.555"></polygon>
+                        <polygon id="Fill-4" fill="#FEFEFE" points="0 11.667 48 11.667 48 8.111 0 8.111"></polygon>
+                        <polygon id="Fill-5" fill="#36A9E0" points="0 15.222 48 15.222 48 11.667 0 11.667"></polygon>
+                        <polygon id="Fill-6" fill="#FEFEFE" points="0 18.778 48 18.778 48 15.222 0 15.222"></polygon>
+                        <polygon id="Fill-7" fill="#36A9E0" points="0 22.334 48 22.334 48 18.778 0 18.778"></polygon>
+                        <polygon id="Fill-8" fill="#FEFEFE" points="0 25.89 48 25.89 48 22.334 0 22.334"></polygon>
+                        <polygon id="Fill-9" fill="#36A9E0" points="0 29.445 48 29.445 48 25.89 0 25.89"></polygon>
+                        <polygon id="Fill-10" fill="#FEFEFE" points="0 18.778 17.778 18.778 17.778 0.999 0 0.999"></polygon>
+                        <polygon id="Fill-11" fill="#CB9F00" points="8.8887 4 9.4737 7.058 11.1847 4.457 10.5557 7.506 13.1317 5.757 11.3837 8.333 14.4317 7.704 11.8307 9.415 14.8887 10 11.8307 10.585 14.4317 12.296 11.3837 11.667 13.1317 14.243 10.5557 12.494 11.1847 15.543 9.4737 12.942 8.8887 16 8.3037 12.942 6.5927 15.543 7.2217 12.494 4.6457 14.243 6.3937 11.667 3.3457 12.296 5.9467 10.585 2.8887 10 5.9467 9.415 3.3457 7.704 6.3937 8.333 4.6457 5.757 7.2217 7.506 6.5927 4.457 8.3037 7.058"></polygon>
+                        <g id="Group-16" stroke-width="1" fill="none" transform="translate(6.000000, 8.000000)">
+                            <path d="M4.8887,2 C4.8887,3.104 3.9927,4 2.8887,4 C1.7847,4 0.8887,3.104 0.8887,2 C0.8887,0.896 1.7847,0 2.8887,0 C3.9927,0 4.8887,0.896 4.8887,2" id="Fill-12" fill="#FCC200"></path>
+                            <polygon id="Fill-14" fill="#1D1D1B" points="4.1387 1.4375 1.6387 1.4375 1.6387 1.6875 2.7637 1.6875 2.7637 3.0625 3.0137 3.0625 3.0137 1.6875 4.1387 1.6875"></polygon>
+                        </g>
+                    </g>
+                </g>
+                <g id="icons-/-flag-/-border" mask="url(#mask-2)" stroke="#F0F2F7" stroke-width="1">
+                    <rect id="flag-/-border" x="0.5" y="0.5" width="47" height="31" rx="8"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

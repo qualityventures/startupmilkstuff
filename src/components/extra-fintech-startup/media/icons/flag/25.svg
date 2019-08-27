@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="32px" viewBox="0 0 48 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>icons / flag / european_union copy 4</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="48" height="32" rx="8"></rect>
+    </defs>
+    <g id="promo_set" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="web" transform="translate(-820.000000, -7988.000000)">
+            <g id="icons-/-flag-/-taiwan" transform="translate(820.000000, 7988.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="mask" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <g id="Group-38" stroke-width="1" fill-rule="evenodd" mask="url(#mask-2)">
+                    <polygon id="Fill-1" fill="#E20714" points="0 32 48 32 48 0 0 0"></polygon>
+                    <polygon id="Fill-2" fill="#213A8F" points="0 16 24 16 24 0 0 0"></polygon>
+                    <g id="Group-37" transform="translate(6.000000, 2.000000)" fill="#FEFEFE">
+                        <path d="M4.9858,2.4053 L3.7038,0.4573 L4.1748,2.7423 C4.4298,2.5993 4.6998,2.4863 4.9858,2.4053" id="Fill-3"></path>
+                        <path d="M6.4385,2.293 L6.0005,0 L5.5615,2.293 C5.7075,2.276 5.8495,2.249 6.0005,2.249 C6.1505,2.249 6.2925,2.276 6.4385,2.293" id="Fill-5"></path>
+                        <path d="M3.6875,3.0674 L1.7565,1.7564 L3.0675,3.6874 C3.2505,3.4574 3.4575,3.2504 3.6875,3.0674" id="Fill-7"></path>
+                        <path d="M2.7422,4.1758 L0.4572,3.7038 L2.4062,4.9868 C2.4872,4.6998 2.5992,4.4298 2.7422,4.1758" id="Fill-9"></path>
+                        <path d="M12,6 L9.706,5.561 C9.723,5.707 9.75,5.85 9.75,5.999 C9.75,6.149 9.723,6.293 9.706,6.439 L12,6 Z" id="Fill-11"></path>
+                        <path d="M8.2959,0.457 L7.0139,2.405 C7.2999,2.486 7.5699,2.6 7.8249,2.742 L8.2959,0.457 Z" id="Fill-13"></path>
+                        <path d="M9.5942,4.9863 L11.5432,3.7043 L9.2582,4.1753 C9.4002,4.4293 9.5132,4.7003 9.5942,4.9863" id="Fill-15"></path>
+                        <path d="M10.2432,1.7568 L8.3122,3.0678 C8.5432,3.2498 8.7502,3.4568 8.9322,3.6878 L10.2432,1.7568 Z" id="Fill-17"></path>
+                        <path d="M2.25,5.999 C2.25,5.85 2.277,5.707 2.294,5.561 L0,6 L2.294,6.439 C2.277,6.293 2.25,6.149 2.25,5.999" id="Fill-19"></path>
+                        <path d="M8.311,8.9316 L10.243,10.2436 L8.932,8.3106 C8.749,8.5416 8.542,8.7486 8.311,8.9316" id="Fill-21"></path>
+                        <path d="M9.2568,7.8242 L11.5428,8.2962 L9.5938,7.0132 C9.5128,7.3002 9.3998,7.5702 9.2568,7.8242" id="Fill-23"></path>
+                        <path d="M7.0132,9.5928 L8.2962,11.5428 L7.8242,9.2558 C7.5702,9.3998 7.3002,9.5118 7.0132,9.5928" id="Fill-25"></path>
+                        <path d="M5.561,9.7051 L6,12.0001 L6.439,9.7051 C6.293,9.7221 6.15,9.7491 6,9.7491 C5.85,9.7491 5.707,9.7221 5.561,9.7051" id="Fill-27"></path>
+                        <path d="M1.7568,10.2432 L3.6888,8.9312 C3.4578,8.7492 3.2508,8.5422 3.0688,8.3102 L1.7568,10.2432 Z" id="Fill-29"></path>
+                        <path d="M3.7041,11.543 L4.9871,9.593 C4.7001,9.512 4.4301,9.399 4.1761,9.256 L3.7041,11.543 Z" id="Fill-31"></path>
+                        <path d="M2.4062,7.0137 L0.4572,8.2957 L2.7432,7.8247 C2.6002,7.5707 2.4872,7.2997 2.4062,7.0137" id="Fill-33"></path>
+                        <path d="M6,2.875 C4.274,2.875 2.875,4.273 2.875,6 C2.875,7.726 4.274,9.125 6,9.125 C7.726,9.125 9.125,7.726 9.125,6 C9.125,4.273 7.726,2.875 6,2.875" id="Fill-35"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

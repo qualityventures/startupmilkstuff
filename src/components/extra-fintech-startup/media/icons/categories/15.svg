@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="47px" height="47px" viewBox="0 0 47 47" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>icons / categories / beauty copy 13</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M29.5313,58 L43.4683,58 L43.4683,56.754 L38.7583,53.928 L39.3893,38.313 L58.0003,38.313 L58.0003,34.459 L39.7423,29.652 L40.1273,20.156 L40.0753,20.156 L40.1693,19.068 C40.1793,18.943 40.1873,18.816 40.1873,18.687 C40.1873,16.654 38.5333,15 36.5003,15 C34.4663,15 32.8113,16.654 32.8113,18.687 C32.8113,18.816 32.8183,18.943 32.8313,19.068 L32.0193,19.149 L32.8343,19.116 L33.2273,28.849 C33.2283,29.66 33.2283,29.66 29.6353,30.606 L15.0003,34.459 L15.0003,38.313 L33.6093,38.313 L34.2413,53.928 L29.5313,56.754 L29.5313,58 Z M45.4683,60 L27.5313,60 L27.5313,55.622 L32.1943,52.823 L31.6893,40.313 L13.0003,40.313 L13.0003,32.917 L13.7453,32.721 C13.7453,32.721 27.7273,29.041 31.1973,28.127 L30.8373,19.226 C30.8203,19.049 30.8113,18.869 30.8113,18.687 C30.8113,15.552 33.3633,13 36.5003,13 C39.4573,13 41.8943,15.269 42.1633,18.156 L42.2063,18.156 L42.1873,18.659 L42.1873,18.687 C42.1873,18.844 42.1803,18.998 42.1693,19.15 L41.8043,28.127 L60.0003,32.917 L60.0003,40.313 L41.3093,40.313 L40.8043,52.823 L45.4683,55.622 L45.4683,60 Z" id="path-1"></path>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#111C3C" offset="0%"></stop>
+            <stop stop-color="#10032D" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="promo_set" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="web" transform="translate(-425.000000, -7961.000000)">
+            <g id="Group-19-Copy" transform="translate(60.000000, 7460.000000)">
+                <g id="Group-26" transform="translate(352.000000, 248.000000)">
+                    <g id="icons-/-categories-/-travel" transform="translate(0.000000, 240.000000)">
+                        <g id="Group-6">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <use id="Fill-1" fill="#1D1D1B" xlink:href="#path-1"></use>
+                            <g id="colors-/-gradients-/-dark_main" mask="url(#mask-2)" fill="url(#linearGradient-3)">
+                                <rect id="frame" x="0" y="0" width="72" height="72"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

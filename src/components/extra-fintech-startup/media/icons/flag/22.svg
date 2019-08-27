@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="32px" viewBox="0 0 48 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>icons / flag / canada copy 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="48" height="32" rx="8"></rect>
+        <polygon id="path-3" points="0 32 48 32 48 0 0 0"></polygon>
+    </defs>
+    <g id="promo_set" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="web" transform="translate(-1079.000000, -7918.000000)">
+            <g id="icons-/-flag-/-spain" transform="translate(1079.000000, 7918.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="mask" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <g id="Group-22" stroke-width="1" fill-rule="evenodd" mask="url(#mask-2)">
+                    <polygon id="Fill-1" fill="#E20714" points="0 32 48 32 48 24 0 24"></polygon>
+                    <polygon id="Fill-2" fill="#FCC200" points="0 24 48 24 48 8 0 8"></polygon>
+                    <polygon id="Fill-3" fill="#E20714" points="0 8 48 8 48 0 0 0"></polygon>
+                    <polygon id="Fill-4" fill="#9C9C9C" points="4.375 22 5.625 22 5.625 14 4.375 14"></polygon>
+                    <polygon id="Fill-5" fill="#9C9C9C" points="14.375 22 15.625 22 15.625 14 14.375 14"></polygon>
+                    <polygon id="Fill-6" fill="#B2B2B1" points="10 17.5 13.5 17.5 13.5 14 10 14"></polygon>
+                    <polygon id="Fill-7" fill="#B60F0C" points="11 16.75 12.5 16.75 12.5 15.25 11 15.25"></polygon>
+                    <g id="Group-21">
+                        <path d="M10,17.5 L10,14 L6.5,14 L6.5,17.5 L6.5,19 C6.5,20.1 7.4,21 8.5,21 L11.5,21 C12.6,21 13.5,20.1 13.5,19 L13.5,17.5 L10,17.5 Z" id="Fill-8" fill="#B60F0C"></path>
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <g id="Clip-11"></g>
+                        <polygon id="Fill-10" fill="#D5A600" mask="url(#mask-4)" points="9.75 21 10.25 21 10.25 17.5 9.75 17.5"></polygon>
+                        <polygon id="Fill-12" fill="#D5A600" mask="url(#mask-4)" points="10.75 20.25 12.75 20.25 12.75 18.25 10.75 18.25"></polygon>
+                        <polygon id="Fill-13" fill="#BF0E0E" mask="url(#mask-4)" points="11.125 19.875 12.375 19.875 12.375 18.625 11.125 18.625"></polygon>
+                        <polygon id="Fill-14" fill="#D5A600" mask="url(#mask-4)" points="8.5 21 9 21 9 17.5 8.5 17.5"></polygon>
+                        <polygon id="Fill-15" fill="#D5A600" mask="url(#mask-4)" points="7.25 21 7.75 21 7.75 17.5 7.25 17.5"></polygon>
+                        <polygon id="Fill-16" fill="#BF0E0E" mask="url(#mask-4)" points="10.25 12 10.25 11.25 9.75 11.25 9.75 12 7.5 12 7.5 13.5 12.5 13.5 12.5 12"></polygon>
+                        <polygon id="Fill-17" fill="#BF0E0E" mask="url(#mask-4)" points="4.1118 17.2236 3.8878 16.7766 5.8878 15.7766 6.1118 16.2236"></polygon>
+                        <polygon id="Fill-18" fill="#BF0E0E" mask="url(#mask-4)" points="4.1118 19.2236 3.8878 18.7766 5.8878 17.7766 6.1118 18.2236"></polygon>
+                        <polygon id="Fill-19" fill="#BF0E0E" mask="url(#mask-4)" points="15.8882 19.2236 13.8882 18.2236 14.1122 17.7766 16.1122 18.7766"></polygon>
+                        <polygon id="Fill-20" fill="#BF0E0E" mask="url(#mask-4)" points="15.8882 17.2236 13.8882 16.2236 14.1122 15.7766 16.1122 16.7766"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

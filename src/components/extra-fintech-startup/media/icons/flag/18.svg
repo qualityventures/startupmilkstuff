@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="32px" viewBox="0 0 48 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>icons / flag / croatia copy 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="48" height="32" rx="8"></rect>
+        <polygon id="path-3" points="0 32 48 32 48 0 0 0"></polygon>
+    </defs>
+    <g id="promo_set" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="web" transform="translate(-1252.000000, -7848.000000)">
+            <g id="icons-/-flag-/-liechtenstein" transform="translate(1252.000000, 7848.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="mask" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <g id="Group-15" stroke-width="1" fill-rule="evenodd" mask="url(#mask-2)">
+                    <polygon id="Fill-1" fill="#E20714" points="0 32 48 32 48 16 0 16"></polygon>
+                    <polygon id="Fill-2" fill="#213A8F" points="0 16 48 16 48 0 0 0"></polygon>
+                    <g id="Group-14">
+                        <path d="M11.0107,6.4707 C11.0107,6.4707 8.8587,3.9407 7.2147,6.4707 C6.5667,7.4667 7.5937,10.2657 7.5937,10.2657 L14.4257,10.2657 C14.4257,10.2657 15.4067,7.2927 14.8057,6.4707 C13.1547,4.2107 11.0107,6.4707 11.0107,6.4707" id="Fill-3" fill="#FCC200"></path>
+                        <polygon id="Fill-5" fill="#FCC200" points="10.7246 6.4727 10.7136 4.2607 11.2866 4.2577 11.2956 6.4697"></polygon>
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <g id="Clip-8"></g>
+                        <polygon id="Fill-7" fill="#1D1D1B" mask="url(#mask-4)" points="7.594 10.838 14.426 10.838 14.426 10.266 7.594 10.266"></polygon>
+                        <polygon id="Fill-9" fill="#1D1D1B" mask="url(#mask-4)" points="10.938 10.552 11.081 10.552 11.081 6.471 10.938 6.471"></polygon>
+                        <polygon id="Fill-10" fill="#1D1D1B" mask="url(#mask-4)" points="12.081 10.552 12.225 10.552 12.225 6.471 12.081 6.471"></polygon>
+                        <polygon id="Fill-11" fill="#1D1D1B" mask="url(#mask-4)" points="8.653 10.552 8.796 10.552 8.796 6.471 8.653 6.471"></polygon>
+                        <polygon id="Fill-12" fill="#1D1D1B" mask="url(#mask-4)" points="9.795 10.552 9.938 10.552 9.938 6.471 9.795 6.471"></polygon>
+                        <polygon id="Fill-13" fill="#1D1D1B" mask="url(#mask-4)" points="13.224 10.552 13.367 10.552 13.367 6.471 13.224 6.471"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

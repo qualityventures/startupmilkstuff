@@ -1,0 +1,17 @@
+.admin-products {
+  &__create {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    width: 160px;
+  }
+
+  &__selectes {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  &__category, &__status {
+    width: 48%;
+  }
+}

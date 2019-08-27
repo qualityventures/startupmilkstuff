@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="33px" height="45px" viewBox="0 0 33 45" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>icons / categories / beauty copy 14</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M22,57 L50.5,57 L50.5,25 L22,25 L22,57 Z M32.75,19.499 C32.75,17.57 34.32,16 36.25,16 C38.18,16 39.75,17.57 39.75,19.499 L39.75,23 L32.75,23 L32.75,19.499 Z M41.75,23 L41.75,19.499 C41.75,16.467 39.282,14 36.25,14 C33.218,14 30.75,16.467 30.75,19.499 L30.75,23 L20,23 L20,59 L52.5,59 L52.5,23 L41.75,23 Z" id="path-1"></path>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#111C3C" offset="0%"></stop>
+            <stop stop-color="#10032D" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="promo_set" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="web" transform="translate(-568.000000, -7882.000000)">
+            <g id="Group-19-Copy" transform="translate(60.000000, 7460.000000)">
+                <g id="Group-21" transform="translate(488.000000, 248.000000)">
+                    <g id="icons-/-categories-/-shopping" transform="translate(0.000000, 160.000000)">
+                        <g id="Group-6">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <g id="Fill-1"></g>
+                            <g id="colors-/-gradients-/-dark_main" mask="url(#mask-2)" fill="url(#linearGradient-3)">
+                                <rect id="frame" x="0" y="0" width="72" height="72"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,51 @@
+.form__input {
+  box-sizing: border-box;
+  border: 0px solid #ECEDF0;
+  border-bottom: 1px solid #ECEDF0;
+  height: 36px;
+  line-height: 35px;
+  width: 100%;
+  outline: none;
+  resize: none;
+  font-size: 14px;
+  font-style: normal;
+  letter-spacing: normal;
+  font-stretch: normal;
+  font-variant: normal;
+  font-weight: normal;
+  border-radius: 2px;
+  padding: 0px;
+  color: #828286;
+  background: #FFF;
+  transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+
+  &:focus {
+    border-bottom: 1px solid #666;
+  }
+
+  &:disabled {
+    cursor: not-allowed;
+  }
+}
+.form_checkbox {
+  margin-right: 4px;
+}
+.form__textarea {
+  box-sizing: border-box;
+  border: 1px solid #2180f8;
+  min-height: 36px + 60px;
+  line-height: 20px;
+  width: 100%;
+  outline: none;
+  resize: none;
+  font-size: 14px;
+  font-style: normal;
+  letter-spacing: normal;
+  font-stretch: normal;
+  font-variant: normal;
+  font-weight: normal;
+  border-radius: 2px;
+  padding: 13px 19px;
+  color: #333;
+  background: #FFF;
+}

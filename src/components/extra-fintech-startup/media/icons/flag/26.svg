@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="32px" viewBox="0 0 48 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>icons / flag / united_kingdom copy 4</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="48" height="32" rx="8"></rect>
+    </defs>
+    <g id="promo_set" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="web" transform="translate(-906.000000, -7988.000000)">
+            <g id="icons-/-flag-/-timor_leste" transform="translate(906.000000, 7988.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="mask" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <g id="Group-5" stroke-width="1" fill-rule="evenodd" mask="url(#mask-2)">
+                    <polygon id="Fill-1" fill="#E20714" points="0 32 48 32 48 0 0 0"></polygon>
+                    <polygon id="Fill-2" fill="#FCC200" points="0 -0.0004 0 31.9996 24 15.9996"></polygon>
+                    <polygon id="Fill-3" fill="#0D0803" points="0 -0.0004 0 31.9996 16 15.9996"></polygon>
+                    <polygon id="Fill-4" fill="#FEFEFE" points="5.6162 20.25 4.9292 17.062 1.7032 16.6 4.5192 14.961 3.9642 11.75 6.3922 13.927 9.2742 12.402 7.9602 15.383 10.2972 17.654 7.0512 17.321"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

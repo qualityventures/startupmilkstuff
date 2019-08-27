@@ -1,0 +1,51 @@
+@import 'styles/variables.scss';
+
+@mixin transition($values...) {
+  transition-timing-function: ease;
+  transition-duration: 200ms;
+  transition-property: $values;
+}
+
+@function str-replace($string, $search, $replace: "") {
+  $index: str-index($string, $search);
+
+  @if $index {
+    @return str-slice($string, 1, $index - 1) + $replace + str-replace(str-slice($string, $index + str-length($search)), $search, $replace);
+  }
+
+  @return $string;
+}
+
+@mixin respond_to($media) {
+  @if $media == mobile {
+    @media only screen and (max-width: $screen_mobile - 1px) { @content; }
+  }
+  
+  @else if $media == desktop {
+    @media only screen and (min-width: $screen_mobile) { @content; }
+  }
+}
+
+@mixin nice_scroll_y() {
+  overflow-x: hidden;
+  overflow-y: scroll;
+  -webkit-overflow-scrolling: scroll;
+  -webkit-overflow-scrolling: touch;
+  -ms-overflow-style: none;
+
+  &::-webkit-scrollbar {
+    display: none;
+  }
+}
+
+@mixin nice_scroll_x() {
+  overflow-x: scroll;
+  overflow-y: hidden;
+  -webkit-overflow-scrolling: scroll;
+  -webkit-overflow-scrolling: touch;
+  -ms-overflow-style: none;
+
+  &::-webkit-scrollbar {
+    display: none;
+  }
+}

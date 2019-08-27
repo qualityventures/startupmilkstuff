@@ -1,0 +1,23 @@
+@media (min-width: 52em) {
+  .signin-container {
+    padding-right: 3em
+  }
+  .signup-container {
+    border-left: 1px solid #ECEDF0;
+    padding-left: 3em
+  }
+}
+@media (max-width: 52em) {
+  .signin-container {
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-bottom: 3em;
+  }
+  .signup-container {
+    padding-left: 1em;
+    padding-right: 1em;
+    border-top: 1px solid #ECEDF0;
+    padding-top: 3em;
+  }
+}
+

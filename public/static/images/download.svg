@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="72px" viewBox="0 0 60 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="donload_buttons_basic_hover" transform="translate(-148.000000, -88.000000)" fill="#FFFFFF" stroke="#1E1D25">
+            <g id="basic" transform="translate(32.000000, 32.000000)">
+                <g id="Group" transform="translate(116.000000, 56.000000)">
+                    <g fill-rule="evenodd" id="Rectangle">
+                        <path d="M0.5,0.5 L0.5,71.5 L59.5,71.5 L59.5,16.2071068 L43.7928932,0.5 L0.5,0.5 Z" fill-rule="nonzero"></path>
+                        <path d="M44.5,1.20710678 L44.5,15.5 L58.7928932,15.5 L44.5,1.20710678 Z" fill-rule="nonzero"></path>
+                    </g>
+                    <path d="M23.2426407,38.1507576 L19.7071068,41.6862915 L30.3137085,52.2928932 L40.9203102,41.6862915 L37.3847763,38.1507576 L32.8137085,42.7218254 L32.8137085,20.5 L27.8137085,20.5 L27.8137085,42.7218254 L23.2426407,38.1507576 Z" id="Combined-Shape" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

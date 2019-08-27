@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>icons / categories / beauty copy 8</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M4.166,13.459 C2.972,13.459 2,12.486 2,11.292 L2,8.334 L3.166,8.334 L5.166,8.334 L6.334,8.334 L6.334,11.292 C6.334,12.486 5.361,13.459 4.166,13.459 Z M6.334,6.334 L6.334,0 L8.334,0 L8.334,11.292 C8.334,13.243 6.98,14.873 5.166,15.324 L5.166,40 L3.166,40 L3.166,15.323 C1.353,14.873 0,13.243 0,11.292 L0,0 L2,0 L2,6.334 L3.166,6.334 L3.166,0 L5.166,0 L5.166,6.334 L6.334,6.334 Z M11.084,15.25 L11.084,0 L28.916,0 L28.916,15.25 C28.916,19.828 25.446,23.607 21,24.106 L21,38 L25.541,38 L25.541,40 L14.459,40 L14.459,38 L19,38 L19,24.106 C14.554,23.607 11.084,19.828 11.084,15.25 Z M13.084,7.917 L26.916,7.917 L26.916,2 L13.084,2 L13.084,7.917 Z M20,22.167 C23.813,22.167 26.916,19.064 26.916,15.25 L26.916,9.917 L13.084,9.917 L13.084,15.25 C13.084,19.064 16.187,22.167 20,22.167 Z M35.834,0 C38.131,0 40,1.869 40,4.167 L40,40 L38,40 L38,24.167 L35.834,24.167 C33.536,24.167 31.666,22.298 31.666,20 L31.666,4.167 C31.666,1.869 33.536,0 35.834,0 Z M38,22.167 L38,4.167 C38,2.972 37.028,2 35.834,2 C34.639,2 33.666,2.972 33.666,4.167 L33.666,20 C33.666,21.195 34.639,22.167 35.834,22.167 L38,22.167 Z" id="path-1"></path>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#111C3C" offset="0%"></stop>
+            <stop stop-color="#10032D" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="promo_set" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="web" transform="translate(-428.000000, -7804.000000)">
+            <g id="Group-19-Copy" transform="translate(60.000000, 7460.000000)">
+                <g id="Group-26" transform="translate(352.000000, 248.000000)">
+                    <g id="icons-/-categories-/-food" transform="translate(0.000000, 80.000000)">
+                        <g id="Group-6" transform="translate(16.000000, 16.000000)">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <g id="Combined-Shape"></g>
+                            <g id="colors-/-gradients-/-dark_main" mask="url(#mask-2)" fill="url(#linearGradient-3)">
+                                <g transform="translate(-16.000000, -16.000000)" id="frame">
+                                    <rect x="0" y="0" width="72" height="72"></rect>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

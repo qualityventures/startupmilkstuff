@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="32px" viewBox="0 0 48 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>original_icons / flag / united_states_81691932 copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="48" height="32" rx="8"></rect>
+    </defs>
+    <g id="promo_set" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="web" transform="translate(-993.000000, -7778.000000)">
+            <g id="icons-/-flag-/-bosnia_and_herzegovina" transform="translate(993.000000, 7778.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="mask" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <g id="Group-11" stroke-width="1" fill-rule="evenodd" mask="url(#mask-2)">
+                    <polygon id="Fill-1" fill="#213A8F" points="0 32 48 32 48 0 0 0"></polygon>
+                    <polygon id="Fill-2" fill="#FCC200" points="9.9999 -0.0004 37.9999 31.9996 37.9999 -0.0004"></polygon>
+                    <polygon id="Fill-3" fill="#FEFEFE" points="9.5498 2.5 10.1348 4.183 11.9158 4.219 10.4958 5.295 11.0118 7 9.5498 5.983 8.0878 7 8.6038 5.295 7.1838 4.219 8.9648 4.183"></polygon>
+                    <polygon id="Fill-4" fill="#FEFEFE" points="13.1504 6.9995 13.7354 8.6825 15.5154 8.7195 14.0964 9.7945 14.6124 11.5005 13.1504 10.4825 11.6874 11.5005 12.2034 9.7945 10.7834 8.7195 12.5644 8.6825"></polygon>
+                    <polygon id="Fill-5" fill="#FEFEFE" points="3.9528 -0.0004 5.0028 0.7956 4.4878 2.4996 5.9488 1.4836 7.4118 2.4996 6.8958 0.7956 7.9448 -0.0004"></polygon>
+                    <polygon id="Fill-6" fill="#FEFEFE" points="16.749 11.5005 17.335 13.1825 19.115 13.2195 17.696 14.2955 18.212 16.0005 16.749 14.9825 15.288 16.0005 15.804 14.2955 14.384 13.2195 16.165 13.1825"></polygon>
+                    <polygon id="Fill-7" fill="#FEFEFE" points="20.3496 16 20.9346 17.683 22.7156 17.719 21.2966 18.795 21.8116 20.5 20.3496 19.483 18.8876 20.5 19.4036 18.795 17.9836 17.719 19.7646 17.683"></polygon>
+                    <polygon id="Fill-8" fill="#FEFEFE" points="23.9502 20.4995 24.5342 22.1825 26.3152 22.2195 24.8962 23.2945 25.4122 25.0005 23.9502 23.9825 22.4882 25.0005 23.0042 23.2945 21.5842 22.2195 23.3652 22.1825"></polygon>
+                    <polygon id="Fill-9" fill="#FEFEFE" points="28.4492 25.0005 29.0352 26.6825 30.8162 26.7195 29.3962 27.7955 29.9122 29.5005 28.4492 28.4825 26.9872 29.5005 27.5032 27.7955 26.0832 26.7195 27.8652 26.6825"></polygon>
+                    <polygon id="Fill-10" fill="#FEFEFE" points="32.3649 31.1819 30.5829 31.2189 31.6139 31.9999 34.2869 31.9999 35.3159 31.2189 33.5349 31.1819 32.9489 29.4999"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

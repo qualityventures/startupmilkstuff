@@ -1,0 +1,66 @@
+@import 'styles/mixins.scss';
+
+@keyframes loading-dots {
+  0% { transform: scale(1, 1); }
+  100% { transform: scale(0.4, 0.4); }
+}
+
+.loader {
+  text-align: center;
+
+  &--big {
+    height: 29px;
+    line-height: 29px;
+  }
+
+  &--small {
+    height: 12px;
+    line-height: 12px;
+  }
+
+  &--grey .dot {
+    background: #999;
+  }
+
+  &--white .dot {
+    background: #FFF;
+  }
+}
+
+.dot {
+  display: inline-block;
+  font-size: 0;
+  animation-name: loading-dots;
+  animation-duration: 400ms;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+
+  .loader--big & {
+    width: 10px;
+    height: 10px;
+    margin-right: 6px;
+    border-radius: 50%;
+  }
+
+  .loader--small & {
+    width: 4px;
+    height: 8px;
+    margin-right: 3px;
+  }
+
+  &:last-child {
+    margin-right: 0px;
+  }
+
+  &--1 {
+    animation-delay: 0ms;
+  }
+
+  &--2 {
+    animation-delay: 200ms;
+  }
+
+  &--3 {
+    animation-delay: 400ms;
+  }
+}

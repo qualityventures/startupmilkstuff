@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="45px" height="35px" viewBox="0 0 45 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>icons / categories / beauty copy 5</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M22.5,11.854 C26.888,11.854 30.457,15.424 30.457,19.812 C30.457,24.201 26.888,27.771 22.5,27.771 C18.112,27.771 14.542,24.201 14.542,19.812 C14.542,15.424 18.112,11.854 22.5,11.854 M28.875,5.375 L45,5.375 L45,34.25 L0,34.25 L0,5.375 L16.125,5.375 L16.125,0 L28.875,0 L28.875,5.375 Z M2,32.25 L43,32.25 L43,7.375 L2,7.375 L2,32.25 Z M22.5,29.771 C17.009,29.771 12.542,25.304 12.542,19.812 C12.542,14.321 17.009,9.854 22.5,9.854 C27.99,9.854 32.457,14.321 32.457,19.812 C32.457,25.304 27.99,29.771 22.5,29.771 Z M21.5,25.1875 L23.5,25.1875 L23.5,20.8125 L27.875,20.8125 L27.875,18.8125 L23.5,18.8125 L23.5,14.4375 L21.5,14.4375 L21.5,18.8125 L17.125,18.8125 L17.125,20.8125 L21.5,20.8125 L21.5,25.1875 Z M18.125,5.375 L26.875,5.375 L26.875,2 L18.125,2 L18.125,5.375 Z" id="path-1"></path>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#111C3C" offset="0%"></stop>
+            <stop stop-color="#10032D" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="promo_set" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="web" transform="translate(-290.000000, -7887.000000)">
+            <g id="Group-19-Copy" transform="translate(60.000000, 7460.000000)">
+                <g id="Group-27" transform="translate(216.000000, 248.000000)">
+                    <g id="icons-/-categories-/-healthcare" transform="translate(0.000000, 160.000000)">
+                        <g id="Group-6" transform="translate(14.000000, 19.000000)">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <g id="Combined-Shape"></g>
+                            <g id="colors-/-gradients-/-dark_main" mask="url(#mask-2)" fill="url(#linearGradient-3)">
+                                <g transform="translate(-14.000000, -19.000000)" id="frame">
+                                    <rect x="0" y="0" width="72" height="72"></rect>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

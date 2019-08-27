@@ -1,0 +1,11 @@
+@import 'styles/variables.scss';
+@import 'styles/mixins.scss';
+
+.modals-shadow-container {
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  background: rgba(40, 40, 40, .3);
+}
