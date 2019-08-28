@@ -114,7 +114,7 @@ class Container extends React.PureComponent {
               <div className="row align-items-lg-center">
                 <div className="col-10 col-lg-3 col-xl-2">
                   <Link className="logo" to={logo_link}>
-                    Startup Milk
+                    Startup Milk.
                   </Link>
                 </div>
                 {this.makeNavigation()}

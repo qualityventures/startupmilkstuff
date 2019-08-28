@@ -26,6 +26,7 @@
 
 /* reboot */
 html {
+  background-color:black;
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
 }
@@ -168,7 +169,7 @@ textarea {
 input,
 button,
 textarea {
-  font-family: "SuisseBPIntl", Helvetica, Arial, sans-serif;
+  font-family: "TT Norms", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: normal;
 }
@@ -2370,7 +2371,7 @@ input.input-text, textarea.textarea {
 }
 
 textarea.textarea {
-  font-family: "SuisseBPIntl", Helvetica, Arial, sans-serif;
+  font-family: "TT Norms", Helvetica, Arial, sans-serif;
   overflow: auto;
   height: auto;
 }
@@ -2730,7 +2731,6 @@ input.search-input-button:hover {
   position: absolute;
   left: 0;
   right: 0;
-  top: 26px;
 }
 
 .header-global.header-fixed {
@@ -2809,15 +2809,13 @@ input.search-input-button:hover {
 
 .logo {
   display: inline-block;
-  margin-top: 5px;
+  margin: 35px 0 0 40px;
+  font-size:  24px;
   font-weight: bold;
-  color: #1e1d25;
+  color: white;
 }
 
-.logo:hover {
-  color: #382828;
-}
-
+//change to log-in / sign-up
 .profile-button {
   position: absolute;
   width: 40px;
@@ -2892,6 +2890,7 @@ input.search-input-button:hover {
 }
 
 .menu-primary {
+  background-color:black;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -2904,11 +2903,6 @@ input.search-input-button:hover {
   margin-right: 8px;
 }
 
-.menu-primary > li.current-menu-parent > a, .menu-primary > li.current-menu-item > a {
-  background-color: #D5D7DD;
-  border-color: #D5D7DD;
-  color: #ffffff;
-}
 
 .menu-primary > li:hover > ul {
   display: block;
@@ -2920,18 +2914,14 @@ input.search-input-button:hover {
   line-height: 36px;
   display: block;
   border-radius: 20px;
-  font-size: 12px;
-  color: #382828;
+  font-size: 16px;
+  color: white;
   text-align: center;
-  text-transform: uppercase;
+  text-transform: capitalize;
   padding: 0 23px;
   letter-spacing: 0.2px;
-  border: 2px solid transparent;
-}
+  }
 
-.menu-primary > li > a:hover {
-  border-color: #D5D7DD;
-}
 
 .menu-primary > li > ul {
   display: none;
@@ -2957,7 +2947,7 @@ input.search-input-button:hover {
   left: 18px;
   right: 18px;
   height: 2px;
-  background: #1e1d25;
+  background: white;
   -webkit-transform: translate3d(0, -50%, 0);
   transform: translate3d(0, -50%, 0);
   -webkit-transition: background-color 0.2s cubic-bezier(0.4, 0, 0.2, 1);
@@ -2972,7 +2962,7 @@ input.search-input-button:hover {
   left: 0;
   right: 0;
   height: 100%;
-  background: #1e1d25;
+  background: white;
   -webkit-transform: translate3d(0, -6px, 0);
   transform: translate3d(0, -6px, 0);
   -webkit-transition: -webkit-transform 0.2s cubic-bezier(0.4, 0, 0.2, 1);
@@ -3123,7 +3113,7 @@ input.search-input-button:hover {
 }
 
 .content {
-  padding: 60px;
+  padding: 176px;
 }
 
 .title {
@@ -3133,11 +3123,17 @@ input.search-input-button:hover {
 }
 
 .title h1 {
-  color: #1e1d25;
+  color: white;
   text-align: center;
-  font-size: 24px;
+  font-size: 56px;
   font-weight: normal;
-  line-height: 1.17;
+  line-height: 72px;
+}
+
+.title h5{
+  color: rgba(255, 255, 255, 0.4);
+  font-size: 16px;
+  line-height:28px;
 }
 
 .catalog-total {
