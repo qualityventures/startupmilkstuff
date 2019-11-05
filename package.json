@@ -46,7 +46,7 @@
     "jsonwebtoken": "^8.2.1",
     "md5-file": "^3.2.3",
     "minimist": "^1.2.0",
-    "mongoose": "^5.0.13",
+    "mongoose": "^5.7.5",
     "morgan": "^1.9.0",
     "node-fetch": "^2.0.0",
     "node-sass": "^4.12.0",
