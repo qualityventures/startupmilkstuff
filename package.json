@@ -52,7 +52,7 @@
     "node-sass": "^4.12.0",
     "nodemailer": "^4.6.4",
     "nodemon": "^1.12.1",
-    "npm": "^6.4.1",
+    "npm": "^6.14.6",
     "prop-types": "^15.6.0",
     "react": "^16.7.0",
     "react-aria-modal": "^3.0.1",
