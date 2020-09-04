@@ -49,7 +49,7 @@
     "mongoose": "^5.0.13",
     "morgan": "^1.9.0",
     "node-fetch": "^2.0.0",
-    "node-sass": "^4.12.0",
+    "node-sass": "^4.13.1",
     "nodemailer": "^4.6.4",
     "nodemon": "^1.12.1",
     "npm": "^6.4.1",
